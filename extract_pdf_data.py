@@ -1,7 +1,7 @@
 import PyPDF2
 import textract
 
-filename = 'decrypt_pdf-sample.pdf'
+filename = 'pdf-sample.pdf'
 pdfFileObj = open(filename, 'rb')
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
 num_pages = pdfReader.numPages
@@ -23,5 +23,5 @@ else:
 # print(text)
 
 #writing data into a .txt file
-with open('do_re_mi.txt', 'a+') as f:
+with open('test.txt', 'a+') as f:
     f.write(text)
