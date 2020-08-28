@@ -1,8 +1,11 @@
 import PyPDF2
 import textract
 
+# open the PDF file
 filename = 'pdf-sample.pdf'
 pdfFileObj = open(filename, 'rb')
+
+# create PDFFileReader object to read the file
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
 num_pages = pdfReader.numPages
 print("page count : ",num_pages)
@@ -25,3 +28,6 @@ else:
 #writing data into a .txt file
 with open('test.txt', 'a+') as f:
     f.write(text)
+
+# close the PDF file object
+pdfFileObj.close()

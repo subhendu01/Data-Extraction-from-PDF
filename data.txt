@@ -20,37 +20,3 @@ version incompatibilities.
 anyone.
  Compact PDF files are smaller than their source files and download a
 page at a time for fast display on the Web.
-A Case Study on how Ethio-ICT Village 
-manage its investors and their day to 
-day service requests
-Single Window 
-Portal
-CSM TechnologiesGovernment of EthiopiaGovernment
-of Ethiopia
-Single Window is an 
-online system for 
-approvals and sanctions 
-for the establishments 
-and operations of the 
-Industries in the Ethio-
-ICT Village of Ethiopia. 
-One-stop service delivery 
-platform ensures a 
-single point access 
-to consolidated and 
-integrated government 
-and business services 
-through the use of Web 
-Portal.
-IntroductionThe Government of Ethiopia has a vision to develop Ethiopia as a premier ICT center of Africa, with a stronghold on public infrastructure and industrial parks for more focused approach towards developing the country as a hub for light manufacturing in Africa.  The government is committed to develop EthioICT-Village with a paid up capital investment of 4.2 billion Birr. Ministry of Communication and Information Technology (MCIT) is engaged in strengthening the ongoing initiatives aimed at improving citizens‚ service deliveries while contributing to economic and social development of the country. To develop the ICT industry of the country, much focus goes into the establishment and management of the ICT parkThere are several citizen-centric and trade-centric services that needs to talk to each other for not only transparency but also for and approvals. Apart from the immense highway between the citizen/trade and the government, availability of the services online through a single sign-on was the need of the hour. It was envisaged that the solution should simplify the delivery of all such government services and allow traders to access information and transact with government Single window Portal (SWP) Ethiopia has a Content Management System (CMS) at its heart, and is developed to connect, link, integrate and transact with government services spread across various ministries and service delivery channel between industries and the government.  SWP Ethiopia is a WebPortal that integrates the activities of the Facility and Compliant Management aspect of the park for ICT Companies. The solution has been designed such that based on the outcome of e-government services (e-Services) for citizens and businesses, and the individual government services, it can be scaled up to integrate with the Service Ethio-ICT Village portal to allow single window online services.SolutionThe main aim of the Single Window Portal  is to provide a One-stop government and business service suite. The MCIT was looking to simplify the delivery of government services for ICT Business in Ethio-ICT Village to allow customers to access information and transact with selected government ministries and agencies online in a streamlined manner.Single Window Portal (SWP) for Ethio-ICT Park, has a four-fold approach to cover all the requirements Œ Facility Management solutions, Feedback Management solutions, Integration system and a Content Management System. Facility Management
-Investors can choose land from a Cadastral map view and spaces can be allotted to them after transparent bidding process. The investors can seek approval for construction purposes on the lands allotted to them. Apart from that, this module covers the asset management requirement of the ICT park, from keeping stock of the inventory of the assets to paying rent and record keeping of the maintenance programs. They can book common venues/spaces, pay their rents online, and raise trouble-shooting tickets. Last but not the least the tenants are also provided with a system generated One-card where they are able to pre-book services and assets of the park.  Feedback Management System
-Apart from providing an organically developed Investors guide complete with rats and maps to view and choose from, they are also tagged to existing lessees to complete the whole cycle. However the main feature of this suite of applications is to provide a console for putting forth issue to culmination upon redressal.  Integration Console
-The Single window portal stands true to its name by providing an integration expressway to all major government service deliveries applications. Either via an embedded URL or by providing a gateway, it allows for information capture at just one place for several applications across all ministries.It provides seamless integration with Integrate with Ethio-Telecomm, Commercial bank of Ethiopia, Identifying & Integrating transactional services of e-services Ethiopia, and ERCA. A dynamic approval process, assures all requisitions raised in any of the aforementioned services or at the SWP portal, gives out information at the latter. Truly making it a single window portal for all services. Content Management Solution
-This set of application ensures that no content is outdated. The CMS provides a self-publishing The CMS handles the event calendar and the newsroom through a very simple publishing tool. The USP however remains to be the multilingual entry form for all the content managed pages. Apart from this main module, CMS also provides an Investor registration form for any interested industry and/or visitor.provide insight into content management by throwing upon the most visited webpages and thus keeping the content relevant.CSM Technologies
-is a pioneering GovTech 
-organization that harnesses the power of 
-existing and emerging 
-technologies to provide 
-solutions with a tangible 
-
-of citizens™ lives.

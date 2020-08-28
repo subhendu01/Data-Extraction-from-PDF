@@ -32,6 +32,9 @@ def read_text(file_name, password, encrypted_status):
     with open('data.txt', 'a+') as f:
         f.write(text)
 
+    # close the PDF file object
+    pdfFileObj.close()
+
 # decrypt the encrypted pdf file and generating a new pdf
 def decrypt_file(file_name, password):
     pdf = pikepdf.open(file_name,password = password)
@@ -39,9 +42,9 @@ def decrypt_file(file_name, password):
 
 # call the read_text function
 if __name__=="__main__":
-    file_name = 'SWP.pdf'
+    file_name = 'pdf-sample.pdf'
     # If your pdf is encrypted than use your password here and make 'encrypted_status = True' else put it as 'False'
-    password = 'csm2020'
-    encrypted_status = True
+    password = '*********'
+    encrypted_status = False # make it True while using encrypted pdf file
     # Calling the read_text function
     read_text(file_name, password, encrypted_status)
